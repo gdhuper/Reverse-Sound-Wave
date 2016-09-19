@@ -6,7 +6,7 @@ public interface DStack {
     public boolean isEmpty();
 
     /**
-     * push
+     * push the element on the top of stack
      */
     public void push(double d);
 
